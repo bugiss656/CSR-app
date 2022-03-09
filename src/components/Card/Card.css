@@ -1,0 +1,16 @@
+.card-link {
+    display: block;
+    text-align: center;
+    margin: 5px 10px !important;
+    width: 200px;
+    height: 300px;
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.card-link:hover {
+    color: #000000;
+    cursor: pointer;
+}
